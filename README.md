@@ -1,7 +1,7 @@
 ## **Java Developer · ITMO University · 2nd-year Student**
 
 - Resume [RU]: [PDF](resume/Paklinov_Vladimir_Java.pdf)
-- Email: [paklinovvova@gmail.com](mailto:paklinovvova@gmail.com)
+- Email: [paklinov.work@gmail.com](mailto:paklinov.work@gmail.com)
 - Telegram: [@vlapakl](https://t.me/vlapakl)
 
 ---
